@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi! Welcome here :smile:
+
+You can find more info about me on: smastelini.github.io
+
+smastelini.github.io
 
 <!--
 **smastelini/smastelini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
